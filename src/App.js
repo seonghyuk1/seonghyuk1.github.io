@@ -4,13 +4,11 @@ import Chart from "./Chart";
 import Layout from "./maplayout";
 import "./layout.css";
 import "./chartlayout.css";
-import Layout2 from "./chartlayout";
 import Topbar from "./topbar/Topbar";
 import Sidebar from "./sidebar/Sidebar";
 import "./featuredInfo.css";
 import Bar from "./Bar";
 import RadarChart from "./RadarChart";
-import Bar2 from "./Bar2";
 
 function App() {
   return (
