@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/seonghyuk1.github.io/static/css/main.3ae3a23a.css",
-    "main.js": "/seonghyuk1.github.io/static/js/main.602d2782.js",
-    "static/js/787.8cb943b3.chunk.js": "/seonghyuk1.github.io/static/js/787.8cb943b3.chunk.js",
-    "static/media/emerg.png": "/seonghyuk1.github.io/static/media/emerg.e7d3687f4e70991d744a.png",
-    "static/media/hospin.png": "/seonghyuk1.github.io/static/media/hospin.b93337d2799e02740e07.png",
-    "index.html": "/seonghyuk1.github.io/index.html",
-    "main.3ae3a23a.css.map": "/seonghyuk1.github.io/static/css/main.3ae3a23a.css.map",
-    "main.602d2782.js.map": "/seonghyuk1.github.io/static/js/main.602d2782.js.map",
-    "787.8cb943b3.chunk.js.map": "/seonghyuk1.github.io/static/js/787.8cb943b3.chunk.js.map"
+    "main.css": "/https://github.com/seonghyuk1/idp_project/static/css/main.c582ca15.css",
+    "main.js": "/https://github.com/seonghyuk1/idp_project/static/js/main.73c8559b.js",
+    "static/js/787.8cb943b3.chunk.js": "/https://github.com/seonghyuk1/idp_project/static/js/787.8cb943b3.chunk.js",
+    "static/media/emerg.png": "/https://github.com/seonghyuk1/idp_project/static/media/emerg.e7d3687f4e70991d744a.png",
+    "static/media/hospin.png": "/https://github.com/seonghyuk1/idp_project/static/media/hospin.b93337d2799e02740e07.png",
+    "index.html": "/https://github.com/seonghyuk1/idp_project/index.html",
+    "main.c582ca15.css.map": "/https://github.com/seonghyuk1/idp_project/static/css/main.c582ca15.css.map",
+    "main.73c8559b.js.map": "/https://github.com/seonghyuk1/idp_project/static/js/main.73c8559b.js.map",
+    "787.8cb943b3.chunk.js.map": "/https://github.com/seonghyuk1/idp_project/static/js/787.8cb943b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ae3a23a.css",
-    "static/js/main.602d2782.js"
+    "static/css/main.c582ca15.css",
+    "static/js/main.73c8559b.js"
   ]
 }
