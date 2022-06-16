@@ -1,3 +1,9 @@
+.leaflet-container {
+  width: 35vw;
+  height: 65vh;
+  border: double 5px #f8abc9;
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+
